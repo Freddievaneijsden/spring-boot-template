@@ -1,13 +1,13 @@
-package com.example.springboot2025;
+package com.example.SpringBootTemplate;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 public class ErrorController {
-    @RequestMapping("/error")
-    String error() {
-        return "error";
-    }
+//    @RequestMapping("/error")
+//    String error() {
+//        return "error";
+//    }
 
 }

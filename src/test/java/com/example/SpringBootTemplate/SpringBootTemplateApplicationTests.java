@@ -1,10 +1,10 @@
-package com.example.springboot2025;
+package com.example.SpringBootTemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Springboot2025ApplicationTests {
+class SpringBootTemplateApplicationTests {
 
     @Test
     void contextLoads() {
